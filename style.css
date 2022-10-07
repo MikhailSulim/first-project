@@ -1,1 +1,10 @@
-/*test*/
+h1 {
+  font-size: 25px;
+  color: red;
+}
+
+p {
+  font-size:18px;
+  font-weight: 600;
+  color: blue;
+}
